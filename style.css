@@ -323,7 +323,7 @@ hr:hover {
 .services .title::after,
 .projects .title::after {
   background: var(--black);
-  content: "Interests";
+  content: "Web3";
 }
 .services .serv-content .card {
   width: calc(33% - 20px);
