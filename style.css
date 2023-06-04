@@ -274,7 +274,9 @@ hr:hover {
   object-fit: cover;
   border-radius: 6px;
 }
-
+.about .about-content .left img:hover{
+  filter: grayscale(100%);
+}
 .about .about-content .right {
   width: 55%;
 }
